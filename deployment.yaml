@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: landingpage
-        image: fajarsujai/landingpage
+        image: fajarsujai/landingpage:latest
         ports:
         - containerPort: 80
 
